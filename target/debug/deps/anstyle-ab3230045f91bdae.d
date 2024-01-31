@@ -1,0 +1,12 @@
+C:\Users\almor\Desktop\multithreaded_test\target\debug\deps\libanstyle-ab3230045f91bdae.rmeta: C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\lib.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\macros.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\color.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\effect.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\reset.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\style.rs
+
+C:\Users\almor\Desktop\multithreaded_test\target\debug\deps\libanstyle-ab3230045f91bdae.rlib: C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\lib.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\macros.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\color.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\effect.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\reset.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\style.rs
+
+C:\Users\almor\Desktop\multithreaded_test\target\debug\deps\anstyle-ab3230045f91bdae.d: C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\lib.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\macros.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\color.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\effect.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\reset.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\style.rs
+
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\lib.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\macros.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\color.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\effect.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\reset.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.5\src\style.rs:
